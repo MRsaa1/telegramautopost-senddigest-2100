@@ -1,0 +1,1 @@
+# telegramautopost-senddigest-2100\n\nCompact repository README.\n\n- Security: secret scanning & push protection enabled\n- License: Proprietary (all rights reserved)\n\n
